@@ -1,6 +1,9 @@
                                                   
 
-                                                 Hi I'm Umesh Gardas
+                                                Hi there, I'm Umesh Gardas! 👋
+                   🚀 Full Stack Developer | 🎨 UI/UX Enthusiast | 🌐 ServiceNow & MERN Stack Specialist
+
+                                                                                               
 - 🔭 I’m currently working on a collaborative drawing app with real-time features, a simple e-commerce website using the MERN stack, and a 3D product configurator for Vertical 3D Tech.
 - 🌱 I’m currently learning Angular to expand my frontend development skills alongside React and Next.js.
 - 👯 I’m looking to collaborate on projects involving ServiceNow development or JavaScript-based applications.
