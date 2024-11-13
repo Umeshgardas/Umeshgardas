@@ -6,7 +6,7 @@
 
 
 👨‍💻* About Me*
-- 🔭 I’m currently working on:
+- 🔭  I’m currently working on a collaborative drawing app with real-time features, a simple e-commerce website using the MERN stack, and a 3D product configurator for Vertical 3D Tech.
 - A collaborative drawing app with real-time features.
 - A 3D product configurator for Vertical 3D Tech using React.
 - A MERN stack e-commerce website with admin panel and item management.
