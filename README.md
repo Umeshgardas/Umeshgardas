@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Umeshgardas/Umeshgardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a collaborative drawing app with real-time features, a simple e-commerce website using the MERN stack, and a 3D product configurator for Vertical 3D Tech.
 - 🌱 I’m currently learning Angular to expand my frontend development skills alongside React and Next.js.
 - 👯 I’m looking to collaborate on projects involving ServiceNow development or JavaScript-based applications.
