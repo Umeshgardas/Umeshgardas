@@ -5,7 +5,7 @@
 
 
 
-👨‍💻** About Me**
+👨‍💻* About Me*
 🔭 I’m currently working on:
 A collaborative drawing app with real-time features.
 A 3D product configurator for Vertical 3D Tech using React.
