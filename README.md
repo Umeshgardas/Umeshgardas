@@ -17,5 +17,5 @@
 
 # Connect with me:
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.instagram.com/yourusername)
-[![LinkedIn](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/128/5969/5969023.png)](https://www.linkedin.com/in/yourusername)
 
