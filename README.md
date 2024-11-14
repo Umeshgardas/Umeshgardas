@@ -16,6 +16,6 @@
 - ⚡ Fun fact: I've developed multiple spin-and-win games and enjoy finding creative ways to implement interactive UI elements!
 
 # Connect with me:
-[![Instagram](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.instagram.com/yourusername)
+[![LinkedIn](https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)](https://www.linkedin.com/in/yourusername)
 
